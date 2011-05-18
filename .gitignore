@@ -1,0 +1,10 @@
+*~
+*.pyc
+*.swp
+.hg/
+.hgignore
+local_settings.py
+rh2/rh2.db
+rh2/static/css-compiled/
+rh2/site-static/
+rh2/compass/.sass-cache/
